@@ -1,0 +1,155 @@
+/* ------------------------------
+   GLOBAL LAYOUT
+------------------------------ */
+
+body {
+  font-family: Arial, sans-serif;
+  background: white;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  width: 700px;
+  margin: 40px auto;
+}
+
+/* ------------------------------
+   SCREEN VISIBILITY
+------------------------------ */
+
+.screen {
+  display: none;
+}
+
+.screen.active {
+  display: block;
+}
+
+/* ------------------------------
+   BUTTONS
+------------------------------ */
+
+button {
+  padding: 10px 20px;
+  margin: 10px 5px;
+  font-size: 16px;
+  cursor: pointer;
+  background: #f2f2f2;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button:hover {
+  background: #e6e6e6;
+}
+
+button:disabled {
+  background: #ddd;
+  cursor: not-allowed;
+}
+
+/* ------------------------------
+   PROGRESS BAR
+------------------------------ */
+
+#progressContainer {
+  width: 100%;
+  height: 8px;
+  background: #ddd;
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
+
+#progressBar {
+  height: 100%;
+  width: 0%;
+  background: #007bff;
+  transition: width 0.3s;
+  border-radius: 4px;
+}
+
+/* ------------------------------
+   QUESTION & OPTIONS
+------------------------------ */
+
+#questionHeader {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+#questionText {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.option {
+  border: 1px solid #ccc;
+  padding: 12px;
+  margin: 10px 0;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background 0.2s;
+}
+
+.option:hover {
+  background: #f9f9f9;
+}
+
+.option.locked {
+  background: #f5f5f5;
+  cursor: default;
+}
+
+/* Correct/Incorrect colors for review mode */
+.correct {
+  border-color: green !important;
+}
+
+.incorrect {
+  border-color: red !important;
+}
+
+/* ------------------------------
+   HIDDEN ELEMENTS
+------------------------------ */
+
+.hidden {
+  display: none;
+}
+
+/* ------------------------------
+   REVIEW MODE
+------------------------------ */
+
+#reviewContainer .reviewItem {
+  border: 1px solid #ccc;
+  padding: 12px;
+  margin: 15px 0;
+  border-radius: 4px;
+}
+
+#reviewFilters button {
+  margin-right: 10px;
+}
+
+.option {
+  padding: 12px;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.option:hover {
+  border-color: #888;
+}
+
+.option.selected {
+  background-color: #d0e7ff;
+  border-color: #1a73e8;
+}
+.history-entry { padding: 10px; margin-bottom: 10px; background: #f5f5f5; border-radius: 6px; }
+

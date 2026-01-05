@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Who were the first people to live in what is now Canada?",
+    "options": [
+      "The Vikings",
+      "European settlers",
+      "Indigenous peoples",
+      "French explorers"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indigenous peoples were the first inhabitants of the land now known as Canada.",
+    "topic": "history"
+  },
+  {
+    "question": "What was the name of the first European to explore Canada by land?",
+    "options": [
+      "Samuel de Champlain",
+      "John Cabot",
+      "Pierre de Monts",
+      "Henry Hudson"
+    ],
+    "correctIndex": 1,
+    "explanation": "John Cabot reached Newfoundland in 1497, becoming the first European to explore Canada by land.",
+    "topic": "history"
+  },
+  {
+    "question": "What was the main reason for the French and British rivalry in North America?",
+    "options": [
+      "Control of the fur trade",
+      "Religious differences",
+      "Fishing rights",
+      "Control of the Arctic"
+    ],
+    "correctIndex": 0,
+    "explanation": "The fur trade was the primary source of conflict between the French and British in North America.",
+    "topic": "history"
+  },
+  {
+    "question": "What was the significance of the Battle of the Plains of Abraham?",
+    "options": [
+      "It ended the War of 1812",
+      "It led to Confederation",
+      "It resulted in British control of Quebec",
+      "It established the RCMP"
+    ],
+    "correctIndex": 2,
+    "explanation": "The British victory on the Plains of Abraham in 1759 led to British control of Quebec.",
+    "topic": "history"
+  },
+  {
+    "question": "When did Canada become a country?",
+    "options": [
+      "1776",
+      "1867",
+      "1905",
+      "1931"
+    ],
+    "correctIndex": 1,
+    "explanation": "Canada became a country on July 1, 1867, through Confederation.",
+    "topic": "history"
+  },
+  {
+    "question": "Which document guaranteed rights to French Catholics after the British conquest?",
+    "options": [
+      "The Quebec Act",
+      "The Constitution Act",
+      "The Charter of Rights",
+      "The Treaty of Paris"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Quebec Act of 1774 protected French language and Catholic rights.",
+    "topic": "history"
+  },
+  {
+    "question": "What was the main purpose of the Underground Railroad?",
+    "options": [
+      "To transport goods across Canada",
+      "To help enslaved African Americans escape to freedom",
+      "To connect Canadian provinces",
+      "To move troops during war"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Underground Railroad helped enslaved African Americans escape to freedom in Canada.",
+    "topic": "history"
+  },
+  {
+    "question": "Which war helped unite French- and English-speaking Canadians?",
+    "options": [
+      "The War of 1812",
+      "World War I",
+      "The Boer War",
+      "The Korean War"
+    ],
+    "correctIndex": 0,
+    "explanation": "The War of 1812 united French- and English-speaking Canadians against American invasion.",
+    "topic": "history"
+  },
+  {
+    "question": "What was the significance of the Canadian Pacific Railway?",
+    "options": [
+      "It connected the Atlantic and Pacific coasts",
+      "It ended the fur trade",
+      "It created the RCMP",
+      "It established the first Canadian parliament"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Canadian Pacific Railway united Canada by connecting the east and west coasts.",
+    "topic": "history"
+  },
+  {
+    "question": "What major event occurred on July 1, 1867?",
+    "options": [
+      "The signing of the Charter",
+      "The end of the War of 1812",
+      "Canadian Confederation",
+      "The creation of the RCMP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Confederation on July 1, 1867, created the Dominion of Canada.",
+    "topic": "history"
+  }
+]

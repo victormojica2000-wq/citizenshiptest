@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Canadian Citizenship Test Simulator</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+  <div id="app">
+
+    <!-- START SCREEN -->
+    <section id="startScreen" class="screen active">
+      <h1>Canadian Citizenship Test Simulator</h1>
+
+      <label>Number of Questions:</label>
+      <select id="questionCount">
+        <option value="10">10</option>
+        <option value="20">20</option>
+        <option value="50">50</option>
+        <option value="100">100</option>
+      </select>
+
+      <label class="toggle">
+        <input type="checkbox" id="balancedMode" checked>
+        <span>Balanced Topic Mode</span>
+      </label>
+
+      <button id="startBtn">Start Test</button>
+    </section>
+
+    <!-- TEST SCREEN -->
+    <section id="testScreen" class="screen">
+      <div id="progressContainer">
+        <div id="progressBar"></div>
+      </div>
+
+      <h2 id="questionHeader"></h2>
+      <p id="questionText"></p>
+
+      <div id="optionsContainer"></div>
+
+      <div id="navButtons">
+        <button id="prevBtn">Previous</button>
+        <button id="nextBtn">Next</button>
+        <button id="submitBtn" class="hidden">Submit Test</button>
+      </div>
+    </section>
+
+    <!-- RESULTS SCREEN -->
+    <section id="resultsScreen" class="screen">
+      <h2>Your Results</h2>
+      <p id="scoreText"></p>
+
+      <button id="retryIncorrectBtn">Retry Incorrect Questions</button>
+      <button id="reviewBtn">Review Answers</button>
+      <button id="restartBtn">Start New Test</button>
+    </section>
+
+    <!-- REVIEW SCREEN -->
+    <section id="reviewScreen" class="screen">
+      <h2>Review Answers</h2>
+
+      <div id="reviewFilters">
+        <button data-filter="all">All</button>
+        <button data-filter="correct">Correct</button>
+        <button data-filter="incorrect">Incorrect</button>
+      </div>
+
+      <div id="reviewContainer"></div>
+
+      <button id="backToStartBtn">Back to Start</button>
+      <button id="backToResultsBtn" class="btn">Back to Results</button>
+    </section>
+
+<button id="viewHistoryBtn" class="btn">View History</button>
+<div id="historyScreen" class="screen"> <h2>Session History</h2> <div id="historyList"></div> <button id="backFromHistoryBtn" class="btn">Back</button> </div>
+<div id="sessionSummaryScreen" class="screen"> <h2>Session Summary</h2> <p id="sessionSummaryText"></p> <button id="sessionReviewBtn" class="btn">Review Answers</button> <button id="sessionBackBtn" class="btn">Back</button> </div>
+  </div>
+
+  <script src="main.js"></script>
+</body>
+</html>

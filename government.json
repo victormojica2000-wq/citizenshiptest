@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is the name of Canada’s national police force?",
+    "options": [
+      "Ontario Provincial Police",
+      "Royal Canadian Mounted Police",
+      "Canadian Security Intelligence Service",
+      "Canadian Armed Forces Police"
+    ],
+    "correctIndex": 1,
+    "explanation": "The RCMP (Royal Canadian Mounted Police) is Canada’s national police force.",
+    "topic": "government"
+  },
+  {
+    "question": "Who represents the King in Canada at the federal level?",
+    "options": [
+      "The Prime Minister",
+      "The Governor General",
+      "The Chief Justice",
+      "The Speaker of the House"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Governor General represents the King in Canada.",
+    "topic": "government"
+  },
+  {
+    "question": "What is the role of the Prime Minister?",
+    "options": [
+      "To enforce laws",
+      "To represent the monarchy",
+      "To lead the government",
+      "To appoint judges"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Prime Minister is the head of government and leads the executive branch.",
+    "topic": "government"
+  },
+  {
+    "question": "What do Members of Parliament (MPs) do?",
+    "options": [
+      "Enforce provincial laws",
+      "Represent their constituents in the House of Commons",
+      "Serve as judges",
+      "Manage municipal services"
+    ],
+    "correctIndex": 1,
+    "explanation": "MPs represent the people in their ridings and debate national issues in the House of Commons.",
+    "topic": "government"
+  },
+  {
+    "question": "What is the name of Canada’s system of government?",
+    "options": [
+      "Presidential democracy",
+      "Constitutional monarchy",
+      "Direct democracy",
+      "Absolute monarchy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Canada is a constitutional monarchy with a parliamentary democracy.",
+    "topic": "government"
+  },
+  {
+    "question": "What is the House of Commons?",
+    "options": [
+      "The chamber where senators meet",
+      "The lower house of Parliament where MPs debate and vote on laws",
+      "The office of the Prime Minister",
+      "The building where the Supreme Court meets"
+    ],
+    "correctIndex": 1,
+    "explanation": "The House of Commons is the elected chamber of Parliament where MPs debate and vote on legislation.",
+    "topic": "government"
+  },
+  {
+    "question": "Who has the power to appoint senators?",
+    "options": [
+      "The Prime Minister",
+      "The Governor General",
+      "The Chief Justice",
+      "The Speaker of the Senate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Senators are appointed by the Governor General on the advice of the Prime Minister.",
+    "topic": "government"
+  },
+  {
+    "question": "What is the role of the Cabinet?",
+    "options": [
+      "To enforce provincial laws",
+      "To advise the King",
+      "To run government departments and propose new laws",
+      "To manage municipal services"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Cabinet runs federal departments and proposes government policies and legislation.",
+    "topic": "government"
+  },
+  {
+    "question": "What is a riding or constituency?",
+    "options": [
+      "A political party",
+      "A region represented by an MP",
+      "A type of election",
+      "A government department"
+    ],
+    "correctIndex": 1,
+    "explanation": "A riding is a geographic area represented by a Member of Parliament.",
+    "topic": "government"
+  },
+  {
+    "question": "What is the role of the judiciary in Canada?",
+    "options": [
+      "To create laws",
+      "To enforce laws",
+      "To interpret and apply laws",
+      "To run elections"
+    ],
+    "correctIndex": 2,
+    "explanation": "The judiciary interprets and applies the law independently from the government.",
+    "topic": "government"
+  }
+]

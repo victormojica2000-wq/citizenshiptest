@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Who are the First Peoples of Canada?",
+    "options": [
+      "French settlers",
+      "British colonists",
+      "Indigenous peoples",
+      "European explorers"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indigenous peoples—First Nations, Inuit, and Métis—are the original inhabitants of Canada.",
+    "topic": "indigenous"
+  },
+  {
+    "question": "Which three groups are recognized as Indigenous peoples in Canada?",
+    "options": [
+      "First Nations, Inuit, and Métis",
+      "Inuit, Métis, and Europeans",
+      "First Nations, French, and British",
+      "Métis, French, and Inuit"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Constitution recognizes First Nations, Inuit, and Métis as Indigenous peoples.",
+    "topic": "indigenous"
+  },
+  {
+    "question": "What is the meaning of the term 'Métis'?",
+    "options": [
+      "People of mixed Indigenous and European ancestry",
+      "People who live in the Arctic",
+      "People who speak French",
+      "People who migrated from Europe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Métis refers to people of mixed Indigenous and European ancestry with a distinct culture.",
+    "topic": "indigenous"
+  },
+  {
+    "question": "Where do most Inuit live?",
+    "options": [
+      "Southern Ontario",
+      "Atlantic Canada",
+      "Northern Canada",
+      "British Columbia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Most Inuit live in northern Canada, particularly in Nunavut, Northwest Territories, and northern Quebec.",
+    "topic": "indigenous"
+  },
+  {
+    "question": "What was the purpose of treaties between Indigenous peoples and the Crown?",
+    "options": [
+      "To promote tourism",
+      "To establish peaceful relations and land agreements",
+      "To create new provinces",
+      "To regulate trade with Europe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Treaties were agreements meant to establish peaceful relations and define land rights.",
+    "topic": "indigenous"
+  },
+  {
+    "question": "What is the significance of the Truth and Reconciliation Commission (TRC)?",
+    "options": [
+      "It created new provinces",
+      "It investigated residential schools and promoted reconciliation",
+      "It established Indigenous reserves",
+      "It created new trade agreements"
+    ],
+    "correctIndex": 1,
+    "explanation": "The TRC documented the history and impacts of residential schools and made recommendations for reconciliation.",
+    "topic": "indigenous"
+  },
+  {
+    "question": "What were residential schools?",
+    "options": [
+      "Schools built for newcomers",
+      "Schools that taught Indigenous languages",
+      "Government-funded schools that attempted to assimilate Indigenous children",
+      "Private schools for settlers"
+    ],
+    "correctIndex": 2,
+    "explanation": "Residential schools were government-funded institutions that aimed to assimilate Indigenous children, causing lasting harm.",
+    "topic": "indigenous"
+  },
+  {
+    "question": "What is the name of the Inuit homeland created in 1999?",
+    "options": [
+      "Nunavik",
+      "Nunatsiavut",
+      "Nunavut",
+      "Inuvialuit"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nunavut was created in 1999 as a self-governing Inuit homeland.",
+    "topic": "indigenous"
+  },
+  {
+    "question": "What is a key principle of Indigenous worldviews?",
+    "options": [
+      "Individual ownership of all land",
+      "Separation from nature",
+      "Respect for the land and all living things",
+      "Economic growth above all"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indigenous worldviews emphasize respect for the land, community, and all living things.",
+    "topic": "indigenous"
+  },
+  {
+    "question": "What does the term 'First Nations' refer to?",
+    "options": [
+      "Indigenous peoples who are neither Inuit nor Métis",
+      "All Indigenous peoples in Canada",
+      "People who first settled Canada from Europe",
+      "People who speak Indigenous languages"
+    ],
+    "correctIndex": 0,
+    "explanation": "First Nations refers to Indigenous peoples who are not Inuit or Métis.",
+    "topic": "indigenous"
+  }
+]

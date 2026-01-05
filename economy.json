@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is the largest sector of Canada’s economy?",
+    "options": [
+      "Agriculture",
+      "Manufacturing",
+      "Service sector",
+      "Mining"
+    ],
+    "correctIndex": 2,
+    "explanation": "The service sector is the largest part of Canada’s economy, employing most Canadians.",
+    "topic": "economy"
+  },
+  {
+    "question": "Which natural resource is Canada one of the world’s largest producers of?",
+    "options": [
+      "Oil and natural gas",
+      "Diamonds",
+      "Coffee",
+      "Rubber"
+    ],
+    "correctIndex": 0,
+    "explanation": "Canada is a major global producer of oil and natural gas, especially in Alberta.",
+    "topic": "economy"
+  },
+  {
+    "question": "Which province is the center of Canada’s financial industry?",
+    "options": [
+      "British Columbia",
+      "Ontario",
+      "Quebec",
+      "Alberta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ontario, particularly Toronto, is the financial hub of Canada.",
+    "topic": "economy"
+  },
+  {
+    "question": "What is the name of Canada’s currency?",
+    "options": [
+      "Canadian pound",
+      "Canadian franc",
+      "Canadian dollar",
+      "Canadian peso"
+    ],
+    "correctIndex": 2,
+    "explanation": "Canada uses the Canadian dollar (CAD).",
+    "topic": "economy"
+  },
+  {
+    "question": "Which industry is especially important to the Atlantic provinces?",
+    "options": [
+      "Forestry",
+      "Fishing",
+      "Automobile manufacturing",
+      "Technology"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fishing has historically been a major industry in the Atlantic provinces.",
+    "topic": "economy"
+  },
+  {
+    "question": "Which province is the largest producer of hydroelectricity in Canada?",
+    "options": [
+      "Quebec",
+      "Ontario",
+      "British Columbia",
+      "Manitoba"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quebec is the largest producer of hydroelectricity due to its vast river systems.",
+    "topic": "economy"
+  },
+  {
+    "question": "What is Canada’s main trading partner?",
+    "options": [
+      "China",
+      "United Kingdom",
+      "United States",
+      "Mexico"
+    ],
+    "correctIndex": 2,
+    "explanation": "The United States is Canada’s largest trading partner.",
+    "topic": "economy"
+  },
+  {
+    "question": "What is the economic agreement that allows free trade between Canada, the U.S., and Mexico?",
+    "options": [
+      "NATO",
+      "CUSMA/USMCA",
+      "UNESCO",
+      "G7"
+    ],
+    "correctIndex": 1,
+    "explanation": "CUSMA (also known as USMCA) is the free trade agreement between Canada, the U.S., and Mexico.",
+    "topic": "economy"
+  },
+  {
+    "question": "Which Canadian city is known as a major center for technology and innovation?",
+    "options": [
+      "Calgary",
+      "Toronto",
+      "Waterloo",
+      "Halifax"
+    ],
+    "correctIndex": 2,
+    "explanation": "Waterloo is known for its tech industry and innovation ecosystem.",
+    "topic": "economy"
+  },
+  {
+    "question": "Which industry is especially important in the Prairie provinces?",
+    "options": [
+      "Fishing",
+      "Agriculture",
+      "Film production",
+      "Shipbuilding"
+    ],
+    "correctIndex": 1,
+    "explanation": "Agriculture, especially wheat farming, is a major industry in the Prairie provinces.",
+    "topic": "economy"
+  }
+]

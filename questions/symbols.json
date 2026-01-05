@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is the national symbol of Canada?",
+    "options": [
+      "The polar bear",
+      "The maple leaf",
+      "The loon",
+      "The beaver"
+    ],
+    "correctIndex": 1,
+    "explanation": "The maple leaf is the national symbol of Canada and appears on the national flag.",
+    "topic": "symbols"
+  },
+  {
+    "question": "What animal is an official emblem of Canada?",
+    "options": [
+      "Moose",
+      "Beaver",
+      "Caribou",
+      "Grizzly bear"
+    ],
+    "correctIndex": 1,
+    "explanation": "The beaver is an official emblem of Canada, recognized for its historical importance in the fur trade.",
+    "topic": "symbols"
+  },
+  {
+    "question": "What do the red and white colors on the Canadian flag represent?",
+    "options": [
+      "Canada’s Indigenous peoples",
+      "Canada’s natural landscapes",
+      "Canada’s official national colors",
+      "The two founding peoples"
+    ],
+    "correctIndex": 2,
+    "explanation": "Red and white are Canada’s official national colors, declared by King George V in 1921.",
+    "topic": "symbols"
+  },
+  {
+    "question": "What is the name of Canada’s national anthem?",
+    "options": [
+      "God Save the King",
+      "O Canada",
+      "The True North",
+      "Land of the Maple Leaf"
+    ],
+    "correctIndex": 1,
+    "explanation": "“O Canada” is the national anthem, officially adopted in 1980.",
+    "topic": "symbols"
+  },
+  {
+    "question": "What does the crown on Canada’s Coat of Arms represent?",
+    "options": [
+      "Canada’s independence",
+      "Canada’s connection to the monarchy",
+      "Canada’s natural resources",
+      "Canada’s military strength"
+    ],
+    "correctIndex": 1,
+    "explanation": "The crown symbolizes Canada’s constitutional monarchy and ties to the King.",
+    "topic": "symbols"
+  },
+  {
+    "question": "What is the floral emblem of Canada?",
+    "options": [
+      "Maple leaf",
+      "Rose",
+      "Lily",
+      "No official national flower"
+    ],
+    "correctIndex": 3,
+    "explanation": "Canada does not have an official national flower, though provinces have their own floral emblems.",
+    "topic": "symbols"
+  },
+  {
+    "question": "What does the Canadian Coat of Arms include to represent the founding peoples?",
+    "options": [
+      "A maple leaf and a canoe",
+      "A lion and a unicorn",
+      "A beaver and a polar bear",
+      "A crown and a shield"
+    ],
+    "correctIndex": 1,
+    "explanation": "The lion represents England and the unicorn represents Scotland, symbolizing Canada’s British heritage.",
+    "topic": "symbols"
+  },
+  {
+    "question": "What is the significance of the maple tree in Canada?",
+    "options": [
+      "It is the most common tree in Canada",
+      "It symbolizes unity and peace",
+      "It was used by Indigenous peoples for medicine",
+      "It represents the fur trade"
+    ],
+    "correctIndex": 1,
+    "explanation": "The maple tree symbolizes unity and peace and is deeply tied to Canadian identity.",
+    "topic": "symbols"
+  },
+  {
+    "question": "What is the national winter sport of Canada?",
+    "options": [
+      "Curling",
+      "Hockey",
+      "Skiing",
+      "Snowshoeing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hockey is Canada’s national winter sport.",
+    "topic": "symbols"
+  },
+  {
+    "question": "What is the national summer sport of Canada?",
+    "options": [
+      "Baseball",
+      "Soccer",
+      "Lacrosse",
+      "Basketball"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lacrosse is Canada’s national summer sport, with Indigenous origins.",
+    "topic": "symbols"
+  }
+]

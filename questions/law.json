@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is the highest court in Canada?",
+    "options": [
+      "The Federal Court",
+      "The Court of Appeal",
+      "The Supreme Court of Canada",
+      "The Provincial Court"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Supreme Court of Canada is the highest court and the final court of appeal.",
+    "topic": "law"
+  },
+  {
+    "question": "What does the presumption of innocence mean?",
+    "options": [
+      "Everyone is guilty until proven innocent",
+      "Only citizens are protected by the law",
+      "Everyone is innocent until proven guilty",
+      "Police decide guilt or innocence"
+    ],
+    "correctIndex": 2,
+    "explanation": "The presumption of innocence means a person is considered innocent until proven guilty in court.",
+    "topic": "law"
+  },
+  {
+    "question": "Who is responsible for enforcing federal laws in Canada?",
+    "options": [
+      "Municipal police only",
+      "The RCMP",
+      "The Canadian Armed Forces",
+      "The Prime Minister"
+    ],
+    "correctIndex": 1,
+    "explanation": "The RCMP enforces federal laws across Canada.",
+    "topic": "law"
+  },
+  {
+    "question": "What is the purpose of the Canadian Charter of Rights and Freedoms?",
+    "options": [
+      "To outline Canada’s economic policies",
+      "To define provincial boundaries",
+      "To protect the rights and freedoms of Canadians",
+      "To regulate international trade"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Charter protects fundamental rights and freedoms for all Canadians.",
+    "topic": "law"
+  },
+  {
+    "question": "What is the role of the police in Canada?",
+    "options": [
+      "To create laws",
+      "To enforce laws and maintain public safety",
+      "To run elections",
+      "To appoint judges"
+    ],
+    "correctIndex": 1,
+    "explanation": "Police enforce laws, prevent crime, and maintain public safety.",
+    "topic": "law"
+  },
+  {
+    "question": "What is the purpose of a jury in a criminal trial?",
+    "options": [
+      "To decide the sentence",
+      "To determine guilt or innocence",
+      "To enforce the law",
+      "To represent the government"
+    ],
+    "correctIndex": 1,
+    "explanation": "A jury of citizens decides whether the accused is guilty or not guilty.",
+    "topic": "law"
+  },
+  {
+    "question": "What does 'equality under the law' mean?",
+    "options": [
+      "Everyone must earn the same income",
+      "Everyone is treated equally regardless of background",
+      "Everyone must vote",
+      "Everyone must speak the same language"
+    ],
+    "correctIndex": 1,
+    "explanation": "Equality under the law means all individuals are treated equally regardless of personal characteristics.",
+    "topic": "law"
+  },
+  {
+    "question": "Who has the authority to pass laws in Canada?",
+    "options": [
+      "The police",
+      "The courts",
+      "Parliament and provincial legislatures",
+      "The Governor General alone"
+    ],
+    "correctIndex": 2,
+    "explanation": "Parliament passes federal laws, and provincial legislatures pass provincial laws.",
+    "topic": "law"
+  },
+  {
+    "question": "What is the role of judges in Canada?",
+    "options": [
+      "To create laws",
+      "To enforce laws",
+      "To interpret and apply the law",
+      "To run political campaigns"
+    ],
+    "correctIndex": 2,
+    "explanation": "Judges interpret and apply the law independently from government.",
+    "topic": "law"
+  },
+  {
+    "question": "What is the purpose of the Youth Criminal Justice Act?",
+    "options": [
+      "To punish youth more harshly",
+      "To protect youth from the law",
+      "To ensure fair treatment of young offenders",
+      "To prevent youth from voting"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Youth Criminal Justice Act ensures that young offenders are treated fairly and appropriately.",
+    "topic": "law"
+  }
+]

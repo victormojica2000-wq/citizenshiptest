@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What are the three main responsibilities of Canadian citizens?",
+    "options": [
+      "Obey the law, serve on a jury, vote in elections",
+      "Pay taxes, own property, speak English or French",
+      "Serve in the military, volunteer, respect the flag",
+      "Travel across Canada, work, support the economy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Canadian citizens must obey the law, serve on a jury when called, and vote in elections.",
+    "topic": "rights"
+  },
+  {
+    "question": "Which of the following is a legal right protected by the Canadian Charter of Rights and Freedoms?",
+    "options": [
+      "The right to free healthcare",
+      "The right to vote in federal and provincial elections",
+      "The right to own property",
+      "The right to receive government employment"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Charter guarantees the right to vote in federal and provincial elections.",
+    "topic": "rights"
+  },
+  {
+    "question": "What is one of the fundamental freedoms protected by the Charter?",
+    "options": [
+      "Freedom to receive free housing",
+      "Freedom of conscience and religion",
+      "Freedom to avoid jury duty",
+      "Freedom to travel without identification"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Charter protects freedom of conscience and religion as a fundamental freedom.",
+    "topic": "rights"
+  },
+  {
+    "question": "Which of the following is a responsibility of Canadian citizens?",
+    "options": [
+      "To learn both official languages",
+      "To respect the rights and freedoms of others",
+      "To serve in the military",
+      "To donate to charity"
+    ],
+    "correctIndex": 1,
+    "explanation": "Citizens must respect the rights and freedoms of others as part of Canadian democratic values.",
+    "topic": "rights"
+  },
+  {
+    "question": "What does the Charter protect regarding mobility rights?",
+    "options": [
+      "The right to travel only within your province",
+      "The right to move and live anywhere in Canada",
+      "The right to travel without a passport",
+      "The right to free public transportation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mobility rights allow citizens to move and live anywhere in Canada.",
+    "topic": "rights"
+  },
+  {
+    "question": "Which of the following is a democratic right of Canadian citizens?",
+    "options": [
+      "The right to run for political office",
+      "The right to free university education",
+      "The right to own a business",
+      "The right to receive government benefits"
+    ],
+    "correctIndex": 0,
+    "explanation": "Citizens have the democratic right to run for political office.",
+    "topic": "rights"
+  },
+  {
+    "question": "What is the significance of the rule of law in Canada?",
+    "options": [
+      "Only elected officials must follow the law",
+      "Everyone, including government, must follow the law",
+      "Laws apply only to citizens",
+      "Laws can be ignored if they seem unfair"
+    ],
+    "correctIndex": 1,
+    "explanation": "The rule of law means everyone, including government officials, must follow the law.",
+    "topic": "rights"
+  },
+  {
+    "question": "Which of the following is a responsibility shared by all Canadians?",
+    "options": [
+      "To speak both official languages",
+      "To help others in the community",
+      "To obey the law",
+      "To serve in the armed forces"
+    ],
+    "correctIndex": 2,
+    "explanation": "Obeying the law is a responsibility shared by all Canadians.",
+    "topic": "rights"
+  },
+  {
+    "question": "What does equality under the law mean in Canada?",
+    "options": [
+      "Everyone is treated the same regardless of race, gender, or background",
+      "Everyone must earn the same income",
+      "Everyone must speak the same language",
+      "Everyone must vote for the same political party"
+    ],
+    "correctIndex": 0,
+    "explanation": "Equality under the law means all individuals are treated equally regardless of personal characteristics.",
+    "topic": "rights"
+  },
+  {
+    "question": "Which of the following is a right of Canadian citizens but not permanent residents?",
+    "options": [
+      "The right to live and work anywhere in Canada",
+      "The right to vote in federal elections",
+      "The right to receive healthcare",
+      "The right to be protected by the Charter"
+    ],
+    "correctIndex": 1,
+    "explanation": "Only Canadian citizens can vote in federal elections.",
+    "topic": "rights"
+  }
+]

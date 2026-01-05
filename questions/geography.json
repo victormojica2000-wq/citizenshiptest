@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is the capital city of Canada?",
+    "options": [
+      "Toronto",
+      "Ottawa",
+      "Vancouver",
+      "Montreal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ottawa is the capital city of Canada.",
+    "topic": "geography"
+  },
+  {
+    "question": "Which province is the largest by land area?",
+    "options": [
+      "Ontario",
+      "British Columbia",
+      "Quebec",
+      "Alberta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Quebec is the largest province by land area.",
+    "topic": "geography"
+  },
+  {
+    "question": "Which ocean lies on Canada’s east coast?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Arctic Ocean",
+      "Indian Ocean"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Atlantic Ocean borders Canada on the east.",
+    "topic": "geography"
+  },
+  {
+    "question": "Which Canadian province is known as the 'Land of 100,000 Lakes'?",
+    "options": [
+      "Manitoba",
+      "Saskatchewan",
+      "Ontario",
+      "Nova Scotia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Manitoba is known for its vast number of lakes.",
+    "topic": "geography"
+  },
+  {
+    "question": "Which territory is home to Canada’s highest mountain, Mount Logan?",
+    "options": [
+      "Nunavut",
+      "Northwest Territories",
+      "Yukon",
+      "British Columbia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mount Logan is located in Yukon.",
+    "topic": "geography"
+  },
+  {
+    "question": "Which province is the most populous in Canada?",
+    "options": [
+      "British Columbia",
+      "Ontario",
+      "Quebec",
+      "Alberta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ontario is the most populous province.",
+    "topic": "geography"
+  },
+  {
+    "question": "Which Canadian city is the largest by population?",
+    "options": [
+      "Montreal",
+      "Vancouver",
+      "Toronto",
+      "Calgary"
+    ],
+    "correctIndex": 2,
+    "explanation": "Toronto is the largest city in Canada by population.",
+    "topic": "geography"
+  },
+  {
+    "question": "Which river is the longest in Canada?",
+    "options": [
+      "Fraser River",
+      "St. Lawrence River",
+      "Mackenzie River",
+      "Ottawa River"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Mackenzie River is the longest river in Canada.",
+    "topic": "geography"
+  },
+  {
+    "question": "Which province is known as the 'Birthplace of Confederation'?",
+    "options": [
+      "Ontario",
+      "Prince Edward Island",
+      "Newfoundland and Labrador",
+      "Nova Scotia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prince Edward Island hosted the Charlottetown Conference, leading to Confederation.",
+    "topic": "geography"
+  },
+  {
+    "question": "Which Canadian province is the only officially bilingual province?",
+    "options": [
+      "Ontario",
+      "Quebec",
+      "New Brunswick",
+      "Manitoba"
+    ],
+    "correctIndex": 2,
+    "explanation": "New Brunswick is officially bilingual (English and French).",
+    "topic": "geography"
+  }
+]

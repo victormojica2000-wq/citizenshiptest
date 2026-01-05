@@ -1,6 +1,12 @@
 /* ================================
    MOBILE-FIRST BASE LAYOUT
 ================================ */
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Citizenship Test Simulator</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
 
 body {
   margin: 0;
@@ -190,4 +196,4 @@ button:disabled {
     padding: 16px 20px;
   }
 }
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+

@@ -1,23 +1,26 @@
-/* ------------------------------
-   GLOBAL LAYOUT
------------------------------- */
+/* ================================
+   MOBILE-FIRST BASE LAYOUT
+================================ */
 
 body {
-  font-family: Arial, sans-serif;
-  background: white;
-  color: black;
   margin: 0;
   padding: 0;
+  font-family: system-ui, sans-serif;
+  background: #f7f7f7;
+  color: #222;
+  line-height: 1.5;
 }
 
-#app {
-  width: 700px;
-  margin: 40px auto;
+/* Main container */
+#app, .quiz-container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 16px;
 }
 
-/* ------------------------------
+/* ================================
    SCREEN VISIBILITY
------------------------------- */
+================================ */
 
 .screen {
   display: none;
@@ -27,18 +30,42 @@ body {
   display: block;
 }
 
-/* ------------------------------
-   BUTTONS
------------------------------- */
+/* ================================
+   TYPOGRAPHY (adaptive)
+================================ */
+
+h1, h2, h3 {
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+#questionHeader {
+  font-size: clamp(1.2rem, 3vw, 1.6rem);
+  margin-bottom: 10px;
+}
+
+#questionText {
+  font-size: clamp(1.1rem, 2.5vw, 1.4rem);
+  margin-bottom: 20px;
+}
+
+/* ================================
+   BUTTONS (touch-friendly)
+================================ */
 
 button {
-  padding: 10px 20px;
+  padding: 14px 18px;
   margin: 10px 5px;
-  font-size: 16px;
+  font-size: clamp(1rem, 2.5vw, 1.2rem);
   cursor: pointer;
   background: #f2f2f2;
   border: 1px solid #ccc;
-  border-radius: 4px;
+  border-radius: 8px;
+  transition: 0.2s;
+}
+
+button:active {
+  transform: scale(0.97);
 }
 
 button:hover {
@@ -50,51 +77,52 @@ button:disabled {
   cursor: not-allowed;
 }
 
-/* ------------------------------
-   PROGRESS BAR
------------------------------- */
+/* ================================
+   PROGRESS BAR (sticky on mobile)
+================================ */
 
 #progressContainer {
   width: 100%;
-  height: 8px;
+  height: 10px;
   background: #ddd;
   margin-bottom: 20px;
-  border-radius: 4px;
+  border-radius: 5px;
+  position: sticky;
+  top: 0;
+  z-index: 20;
 }
 
 #progressBar {
   height: 100%;
   width: 0%;
   background: #007bff;
-  transition: width 0.3s;
-  border-radius: 4px;
+  transition: width 0.3s ease;
+  border-radius: 5px;
 }
 
-/* ------------------------------
-   QUESTION & OPTIONS
------------------------------- */
-
-#questionHeader {
-  font-size: 20px;
-  margin-bottom: 10px;
-}
-
-#questionText {
-  font-size: 18px;
-  margin-bottom: 20px;
-}
+/* ================================
+   QUESTION OPTIONS (mobile-first)
+================================ */
 
 .option {
-  border: 1px solid #ccc;
-  padding: 12px;
-  margin: 10px 0;
+  display: block;
+  width: 100%;
+  padding: 14px 16px;
+  margin-bottom: 12px;
+  background: white;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  font-size: clamp(1rem, 2.2vw, 1.2rem);
   cursor: pointer;
-  border-radius: 4px;
-  transition: background 0.2s;
+  transition: 0.2s;
+}
+
+.option:active {
+  transform: scale(0.98);
 }
 
 .option:hover {
-  background: #f9f9f9;
+  border-color: #888;
 }
 
 .option.locked {
@@ -102,54 +130,63 @@ button:disabled {
   cursor: default;
 }
 
-/* Correct/Incorrect colors for review mode */
+.option.selected {
+  background-color: #d0e7ff;
+  border-color: #1a73e8;
+}
+
+/* Correct/Incorrect colors */
 .correct {
-  border-color: green !important;
+  border-color: #2ecc71 !important;
+  background: #eafaf1 !important;
 }
 
 .incorrect {
-  border-color: red !important;
+  border-color: #e74c3c !important;
+  background: #fdecea !important;
 }
 
-/* ------------------------------
-   HIDDEN ELEMENTS
------------------------------- */
-
-.hidden {
-  display: none;
-}
-
-/* ------------------------------
+/* ================================
    REVIEW MODE
------------------------------- */
+================================ */
 
 #reviewContainer .reviewItem {
   border: 1px solid #ccc;
-  padding: 12px;
+  padding: 16px;
   margin: 15px 0;
-  border-radius: 4px;
+  border-radius: 8px;
+  background: white;
 }
 
 #reviewFilters button {
   margin-right: 10px;
 }
 
-.option {
+/* ================================
+   HISTORY ENTRIES
+================================ */
+
+.history-entry {
   padding: 12px;
-  border: 2px solid #ccc;
-  border-radius: 6px;
-  margin-bottom: 10px;
-  cursor: pointer;
-  transition: 0.2s;
+  margin-bottom: 12px;
+  background: #f5f5f5;
+  border-radius: 8px;
 }
 
-.option:hover {
-  border-color: #888;
-}
+/* ================================
+   MEDIA QUERIES (desktop polish)
+================================ */
 
-.option.selected {
-  background-color: #d0e7ff;
-  border-color: #1a73e8;
-}
-.history-entry { padding: 10px; margin-bottom: 10px; background: #f5f5f5; border-radius: 6px; }
+@media (min-width: 768px) {
+  #app, .quiz-container {
+    padding: 24px;
+  }
 
+  button {
+    padding: 12px 24px;
+  }
+
+  .option {
+    padding: 16px 20px;
+  }
+}
